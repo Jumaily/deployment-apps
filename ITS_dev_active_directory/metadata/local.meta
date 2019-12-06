@@ -1,0 +1,19 @@
+[app/install/install_source_checksum]
+version = 7.2.1
+modtime = 1552442292.085049000
+
+[app/install/is_configured]
+version = 7.2.1
+modtime = 1552442292.518348000
+
+[app/ui]
+version = 7.2.1
+modtime = 1565377348.130203000
+
+[app/launcher]
+version = 7.2.1
+modtime = 1565377348.135057000
+
+[app/package/check_for_updates]
+version = 7.2.1
+modtime = 1565377348.136470000
